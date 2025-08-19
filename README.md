@@ -20,6 +20,16 @@ samples, guidance on mobile development, and a full API reference.
 
 ### App Images
 
-<img src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/chat1.png" alt="Sample Image">
-<img src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/chat2.png" alt="Sample Image">
+<img src="https://github.com/lr-singh-rajput/Flax_Store_App/blob/my-new-branch/Untitled design.png" alt="Sample Image">
 
+
+<img src="https://github.com/lr-singh-rajput/Flax_Store_App/blob/my-new-branch/Untitled design (1).png" alt="Sample Image">
+
+<img src="https://github.com/lr-singh-rajput/Flax_Store_App/blob/my-new-branch/Untitled design (2).png" alt="Sample Image">
+
+
+
+<img src="https://github.com/lr-singh-rajput/Flax_Store_App/blob/my-new-branch/Untitled design (3).png" alt="Sample Image">
+
+
+<img src="https://github.com/lr-singh-rajput/Flax_Store_App/blob/my-new-branch/Untitled design (4).png" alt="Sample Image">
