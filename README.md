@@ -1,20 +1,18 @@
 # flux_store
 
-A new Flutter project.
+# Flutter Project
 
-## Getting Started
+check out my website for all project details and images 
 
-This project is a starting point for a Flutter application.
+website link 🔗 https://lr-singh-rajput.github.io/dev_web/web/
 
-A few resources to get you started if this is your first Flutter project:
+<h1>Name - flux_store </h1>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
+<h3>Technology Stack</h3>
+<p>Laguange: Dart</p>
+<p>Platforn: Multipal Platform</p>
 
 
 
